@@ -7,5 +7,13 @@
             "email": "maylon.correa20@gmail.com"
         }
     ],
-    "require": {}
+    "require": {
+        "symfony/var-dumper": "^4.3"
+    },
+    "autoload":{
+        "psr-4":{
+            "sys\\":"app/sys/",
+            "controller\\":"app/controller/"
+        }
+    }
 }
