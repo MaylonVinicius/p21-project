@@ -1,0 +1,11 @@
+{
+    "name": "maylon/p21-project",
+    "description": "Projeto destinado ao Desafio 10/19 da empresa P21 para Programador Pleno PHP",
+    "authors": [
+        {
+            "name": "Maylon",
+            "email": "maylon.correa20@gmail.com"
+        }
+    ],
+    "require": {}
+}
